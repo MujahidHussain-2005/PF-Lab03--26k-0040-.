@@ -1,15 +1,23 @@
 # Hi there, I'm Mujahid! 👋
 
-Welcome to my GitHub profile! I am a passionate developer with a strong interest in **Artificial Intelligence** and **Machine Learning**. 
+Welcome to my GitHub profile. I am a dedicated student pursuing my **degree** while actively *studying Artificial Intelligence* as both my academic focus and my favorite **hobby**.
 
-### 🤖 About Me
-- 🧠 Deeply interested in how AI is shaping the future.
-- 🚀 Exploring Large Language Models (LLMs) and computer vision.
-- 💻 Learning to build intelligent applications.
+## 🤖 About Me
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python
-- **AI Focus:** Machine Learning, Prompt Engineering, API Integration
+Here is a quick look at who I am and what I do:
+* **Academic Focus:** Currently working hard toward completing my university degree.
+* **AI Enthusiast:** Spending my free time exploring *machine learning*, neural networks, and automation.
+* **Future Goals:** Passionate about building *intelligent applications* that solve real-world problems.
+
+## 🚀 My Learning Journey
+
+These are the core steps I am following to master AI:
+1. Mastering **Python** programming and data structures.
+2. Understanding the *mathematical foundations* of data science.
+3. Implementing basic **Machine Learning** models using public datasets.
+4. Exploring modern *Generative AI* tools and API integrations.
+
+---
 
 ### 📬 Connect with Me
-- Feel free to open an issue or collaborate on AI-related projects!
+Feel free to check out my repositories or reach out if you want to collaborate on an *AI-related student project*!
